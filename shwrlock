@@ -1,6 +1,5 @@
-# Coder
-
-To install and run code-server in a Coder workspace, we suggest using the `install.sh`
+3# coder mrt
+install ish
 script in your template like so:
 
 ```terraform
